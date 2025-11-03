@@ -1,5 +1,5 @@
 {
-  "name": "claude-docs",
+  "name": "docs",
   "version": "1.0.0",
   "description": "Access official Claude Code documentation via slash commands",
   "commands": {
