@@ -1,0 +1,22 @@
+{
+  "name": "claude-docs",
+  "version": "1.0.0",
+  "description": "Access official Claude Code documentation via slash commands",
+  "commands": {
+    "docs:claude:hooks": "Access Claude Code hooks documentation",
+    "docs:claude:plugins": "Access Claude Code plugins documentation",
+    "docs:claude:skills": "Access Claude Code skills documentation",
+    "docs:claude:subagents": "Access Claude Code subagents documentation",
+    "docs:claude:configuration": "Access Claude Code configuration documentation",
+    "docs:claude:troubleshooting": "Access Claude Code troubleshooting documentation",
+    "docs:claude:security": "Access Claude Code security documentation",
+    "docs:claude:tools": "Access Claude Code tools documentation",
+    "docs:claude:memory": "Access Claude Code memory documentation",
+    "docs:claude:settings": "Access Claude Code settings documentation",
+    "docs:claude:mcp": "Access Claude Code MCP documentation",
+    "docs:claude:sdk": "Access Claude Code SDK documentation",
+    "docs:claude:context": "Access Claude Code context documentation",
+    "docs:claude:prompts": "Access Claude Code prompt engineering documentation",
+    "docs:claude:api": "Access Claude Code API documentation"
+  }
+}
