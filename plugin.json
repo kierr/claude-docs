@@ -2,66 +2,68 @@
   "name": "docs",
   "version": "1.0.0",
   "description": "Access official Claude Code documentation via slash commands",
-  "commands": [
-    {
-      "name": "docs:claude:hooks",
-      "description": "Access Claude Code hooks documentation"
-    },
-    {
-      "name": "docs:claude:plugins",
-      "description": "Access Claude Code plugins documentation"
-    },
-    {
-      "name": "docs:claude:skills",
-      "description": "Access Claude Code skills documentation"
-    },
-    {
-      "name": "docs:claude:subagents",
-      "description": "Access Claude Code subagents documentation"
-    },
-    {
-      "name": "docs:claude:configuration",
-      "description": "Access Claude Code configuration documentation"
-    },
-    {
-      "name": "docs:claude:troubleshooting",
-      "description": "Access Claude Code troubleshooting documentation"
-    },
-    {
-      "name": "docs:claude:security",
-      "description": "Access Claude Code security documentation"
-    },
-    {
-      "name": "docs:claude:tools",
-      "description": "Access Claude Code tools documentation"
-    },
-    {
-      "name": "docs:claude:memory",
-      "description": "Access Claude Code memory documentation"
-    },
-    {
-      "name": "docs:claude:settings",
-      "description": "Access Claude Code settings documentation"
-    },
-    {
-      "name": "docs:claude:mcp",
-      "description": "Access Claude Code MCP documentation"
-    },
-    {
-      "name": "docs:claude:sdk",
-      "description": "Access Claude Code SDK documentation"
-    },
-    {
-      "name": "docs:claude:context",
-      "description": "Access Claude Code context documentation"
-    },
-    {
-      "name": "docs:claude:prompts",
-      "description": "Access Claude Code prompt engineering documentation"
-    },
-    {
-      "name": "docs:claude:api",
-      "description": "Access Claude Code API documentation"
-    }
-  ]
+  "components": {
+    "commands": [
+      {
+        "name": "docs:claude:hooks",
+        "description": "Access Claude Code hooks documentation"
+      },
+      {
+        "name": "docs:claude:plugins",
+        "description": "Access Claude Code plugins documentation"
+      },
+      {
+        "name": "docs:claude:skills",
+        "description": "Access Claude Code skills documentation"
+      },
+      {
+        "name": "docs:claude:subagents",
+        "description": "Access Claude Code subagents documentation"
+      },
+      {
+        "name": "docs:claude:configuration",
+        "description": "Access Claude Code configuration documentation"
+      },
+      {
+        "name": "docs:claude:troubleshooting",
+        "description": "Access Claude Code troubleshooting documentation"
+      },
+      {
+        "name": "docs:claude:security",
+        "description": "Access Claude Code security documentation"
+      },
+      {
+        "name": "docs:claude:tools",
+        "description": "Access Claude Code tools documentation"
+      },
+      {
+        "name": "docs:claude:memory",
+        "description": "Access Claude Code memory documentation"
+      },
+      {
+        "name": "docs:claude:settings",
+        "description": "Access Claude Code settings documentation"
+      },
+      {
+        "name": "docs:claude:mcp",
+        "description": "Access Claude Code MCP documentation"
+      },
+      {
+        "name": "docs:claude:sdk",
+        "description": "Access Claude Code SDK documentation"
+      },
+      {
+        "name": "docs:claude:context",
+        "description": "Access Claude Code context documentation"
+      },
+      {
+        "name": "docs:claude:prompts",
+        "description": "Access Claude Code prompt engineering documentation"
+      },
+      {
+        "name": "docs:claude:api",
+        "description": "Access Claude Code API documentation"
+      }
+    ]
+  }
 }
